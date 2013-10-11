@@ -1,0 +1,168 @@
+2013-9-17 1:06:13 com.felixjiang.config.SearchConfig loadConfig
+信息: Config: serverHost: 192.168.56.34 
+serverPort: 27027 
+dbName: weibo20121208 
+searchInstances: searchcompany 
+resources: resources/ 
+proxyServer: 192.168.56.34 
+proxyPort: 8085 
+dbCollectionMessage: messages 
+dbCollectionSearchSource: searchSource 
+dbCollectionSearchTime: time 
+searchTime: time 
+parameterInterval: 30000 
+parameterCycle: 900000 
+proxyEnabled: true 
+proxyLog: log/proxylog.txt 
+queries: [] 
+MAX_PAGES: 50 
+nodup: true 
+proxyFile: log/proxylist.txt 
+proxyFromWebsite: false 
+
+2013-9-17 1:06:14 com.felixjiang.search.CrawlInstanceManager loadQueries
+信息: 408 queries added.
+2013-9-17 1:06:23 com.felixjiang.search.SearchManager start
+信息: Total Search number = 485
+2013-9-17 1:06:23 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 535
+2013-9-17 1:06:50 com.felixjiang.search.SearchManager start
+信息: Thread running = 535
+2013-9-17 1:07:03 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:16&nodup=1&page=1
+2013-9-17 1:07:03 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:16&nodup=1&page=1
+2013-9-17 1:07:03 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:7&nodup=1&page=1
+2013-9-17 1:07:03 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:7&nodup=1&page=1
+2013-9-17 1:07:04 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:9&nodup=1&page=1
+2013-9-17 1:07:04 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:9&nodup=1&page=1
+2013-9-17 1:07:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:64:1000&nodup=1&page=1
+2013-9-17 1:07:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:64:1000&nodup=1&page=1
+2013-9-17 1:07:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:07:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:07:30 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:82:1000&nodup=1&page=1
+2013-9-17 1:07:30 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:82:1000&nodup=1&page=1
+2013-9-17 1:07:32 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:52:1000&nodup=1&page=1
+2013-9-17 1:07:32 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:52:1000&nodup=1&page=1
+2013-9-17 1:07:32 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:07:32 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:07:47 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 535, Search number = 485, Success = 99, Failure = 386
+2013-9-17 1:07:47 com.felixjiang.search.SearchManager start
+信息: Iteration cost 84.056 seconds
+2013-9-17 1:07:47 com.felixjiang.search.SearchManager start
+信息: Total Search number = 371
+2013-9-17 1:07:47 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:08:09 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:63:1000&nodup=1&page=1
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:63:1000&nodup=1&page=1
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:65:1000&nodup=1&page=1
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:65:1000&nodup=1&page=1
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:15:1000&nodup=1&page=1
+2013-9-17 1:08:20 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:15:1000&nodup=1&page=1
+2013-9-17 1:08:47 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:29&nodup=1&page=1
+2013-9-17 1:08:47 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:29&nodup=1&page=1
+2013-9-17 1:08:49 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 371, Success = 85, Failure = 286
+2013-9-17 1:08:49 com.felixjiang.search.SearchManager start
+信息: Iteration cost 62.798 seconds
+2013-9-17 1:08:49 com.felixjiang.search.SearchManager start
+信息: Total Search number = 308
+2013-9-17 1:08:49 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:09:12 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:09:49 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/hitachi&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:09:49 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/hitachi&region=custom:54:1000&nodup=1&page=1
+2013-9-17 1:09:53 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 308, Success = 80, Failure = 228
+2013-9-17 1:09:53 com.felixjiang.search.SearchManager start
+信息: Iteration cost 63.902 seconds
+2013-9-17 1:09:53 com.felixjiang.search.SearchManager start
+信息: Total Search number = 243
+2013-9-17 1:09:53 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:10:14 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:10:21 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:62:1000&nodup=1&page=1
+2013-9-17 1:10:21 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:62:1000&nodup=1&page=1
+2013-9-17 1:10:21 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:64:1000&nodup=1&page=1
+2013-9-17 1:10:21 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/%2522%25E6%2597%25A5%25E6%259C%25AC%25E7%2594%25B5%25E6%25B0%2594%2522&region=custom:64:1000&nodup=1&page=1
+2013-9-17 1:10:45 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:28&nodup=1&page=1
+2013-9-17 1:10:45 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/panasonic&region=custom:11:28&nodup=1&page=1
+2013-9-17 1:10:48 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 243, Success = 70, Failure = 173
+2013-9-17 1:10:48 com.felixjiang.search.SearchManager start
+信息: Iteration cost 54.516 seconds
+2013-9-17 1:10:48 com.felixjiang.search.SearchManager start
+信息: Total Search number = 189
+2013-9-17 1:10:48 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:11:08 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:11:43 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 189, Success = 63, Failure = 126
+2013-9-17 1:11:43 com.felixjiang.search.SearchManager start
+信息: Iteration cost 54.841 seconds
+2013-9-17 1:11:43 com.felixjiang.search.SearchManager start
+信息: Total Search number = 145
+2013-9-17 1:11:43 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:12:03 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:12:36 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 145, Success = 61, Failure = 84
+2013-9-17 1:12:36 com.felixjiang.search.SearchManager start
+信息: Iteration cost 53.272 seconds
+2013-9-17 1:12:36 com.felixjiang.search.SearchManager start
+信息: Total Search number = 108
+2013-9-17 1:12:36 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:12:56 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:13:25 com.felixjiang.search.SearchManager start
+信息: Iteration Total = 437, Search number = 108, Success = 53, Failure = 55
+2013-9-17 1:13:25 com.felixjiang.search.SearchManager start
+信息: Iteration cost 48.848 seconds
+2013-9-17 1:13:25 com.felixjiang.search.SearchManager start
+信息: Total Search number = 78
+2013-9-17 1:13:25 com.felixjiang.search.SearchManager start
+信息: Get proxies number = 437
+2013-9-17 1:13:45 com.felixjiang.search.SearchManager start
+信息: Thread running = 437
+2013-9-17 1:14:08 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:63:1000&nodup=1&page=1
+2013-9-17 1:14:08 com.felixjiang.search.SearchManager isTheLastPage
+警告: Parse result = 0:http://s.weibo.com/weibo/fujitsu&region=custom:63:1000&nodup=1&page=1

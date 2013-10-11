@@ -1,0 +1,24 @@
+{ "server": { 
+    "host": "192.168.56.34", 
+    "port": 27027 
+  }, "db": { 
+    "name": "weibo20121208", 
+    "collection": { 
+      "message": "messages",
+      "searchsource": "searchSource"
+    }
+  }, "parameter": {
+    "interval": 30000,
+    "cycle": 900000,
+  }, "proxy": {
+    "enabled": true,
+    "server": "192.168.56.34",
+    "port": 8085,
+    "log": "log/proxylog.txt"
+  }, "resources": "resources"
+  , "searchInstances" : "searchcompany"
+  , "nodup" : true
+  , "page" : 50
+  , "proxyFile" : "log/proxylist.txt"
+  , "proxyFromWebsite" : false
+}
